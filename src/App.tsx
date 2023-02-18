@@ -58,7 +58,9 @@ const App: React.FC = () => {
 
 	return (
 		<div>
-			<h2>Welcome to Ask Me</h2>
+			<h2>Welcome to ASK.ME</h2>
+			<h3>ASK.ME w/ ChatGPT</h3>
+			<p>Used model: Ada | Max tokens: 100</p>
 			<input type="text" value={state.currentQuestion} onChange={(event) => updateQuestion(event.target.value)} />
 			<button onClick={() => askQuestion()}>Ask question</button>
 			<button onClick={() => clearAnswers()}>Clear answers</button>
