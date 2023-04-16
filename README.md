@@ -1,8 +1,8 @@
 # This is a little brother of ChatGPT 🦾
-### Description
+### Description ℹ️
 This project has been made using React and ChatGPT API. This is a test application that proves how the ChatGPT API works.
 
-### Want to try it?
+### Want to try it? 🧪
 There is an example .env.example file that should store 2 keys for ChatGPT API. Please, take a look at this to configure your ChatGPT's little brother.
 
 But first let's clone the project:
